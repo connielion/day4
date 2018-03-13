@@ -1,0 +1,45 @@
+.col-md-10 {
+  background-color: black;
+  height: 600px;
+  margin-top: 100px;
+  margin-left: 100px;
+}
+
+.red {
+  height: 200px;
+  background-color: red;
+  margin-left: 90px;
+  margin-top: 50px;
+  color: white;
+}
+
+.green {
+  height: 200px;
+  background-color: green;
+  height: 200px;
+  margin-top: 50px;
+  margin-left: 90px;
+  color: white;
+}
+
+
+.blue {
+  height: 200px;
+  background-color: blue;
+  margin-top: 50px;
+  margin-left: 105px;
+  color: white;
+}
+
+.purple {
+  height: 200px;
+  background-color: purple;
+  height: 200px;
+  margin-top: 50px;
+  margin-left: 105px;
+  color: white;
+}
+.btn-primary {
+  margin-left: 80px;
+  margin-top: 50px;
+}
